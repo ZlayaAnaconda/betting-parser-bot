@@ -1,5 +1,5 @@
-chat_id = "-1002047072329"
-token = "6881358676:AAG4-1wOHsCKD56LdK_W2ynpvFvo0KKc9d0"
+chat_id = "***"
+token = "***"
 
 
 
